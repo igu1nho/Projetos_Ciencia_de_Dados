@@ -1,28 +1,33 @@
 # Dashboard de Engajamento no Instagram com Power BI 📸
 
 ## Descrição do Projeto 📄
-Este projeto é uma extensão da análise de engajamento do Instagram, focado na **visualização interativa de dados** usando o **Power BI**. O objetivo é facilitar a interpretação dos insights obtidos nos notebooks, permitindo uma análise mais dinâmica.
+Este projeto tem como objetivo analisar o engajamento do perfil no Instagram, transformando os dados brutos em visualizações interativas por meio do Power BI. A ferramenta permite interpretar facilmente as métricas de interação, ajudando a identificar padrões e tendências que influenciam o desempenho das postagens.
+
+Os dados analisados incluem curtidas, comentários e interações totais, permitindo insights sobre quais tipos de postagens performam melhor e como as interações variam ao longo do tempo.
 
 ## Funcionalidades ⚙
-- **Dashboards Interativos:** Visualização de métricas de engajamento com filtros dinâmicos.
-- **Análise de Tags:** Avaliação do impacto das tags diretamente nos gráficos.
-- **Comparativos:** Facilidade para comparar o desempenho de diferentes tipos de postagens.
+✅ **Dashboards interativos** para análise dinâmica dos dados.  
+✅ **Filtros por tags** (Datas comemorativas, Dicas, Influenciadores, etc.) para segmentar os insights.  
+✅ **Comparação de interações por tipo de conteúdo** (Foto, Reels, IGTV, Vídeo).  
+✅ **Análise de engajamento ao longo do tempo**, permitindo identificar tendências.  
+✅ **Medição do impacto das postagens**, ajudando na otimização da estratégia de conteúdo.  
 
-## Requisitos 🛠️
-- **Power BI Desktop** instalado
+## Tecnologias Utilizadas 🛠️  
+- **Power BI** para visualização de dados.  
+- **Excel/Python** para manipulação e pré-processamento dos dados antes da importação.  
 
-## Como Visualizar 🖥️
-1. Baixe o arquivo `projeto_1_powerbi.pbix`.
-2. Abra o Power BI Desktop.
-3. Clique em **Arquivo > Abrir** e selecione o arquivo `.pbix`.
-4. Explore os dashboards e interaja com os filtros.
+## Como Utilizar 🖥️  
+1. **Baixe o arquivo** `projeto_1_powerbi.pbix`.  
+2. **Abra no Power BI Desktop**.  
+3. **Interaja com os dashboards**, utilizando os filtros disponíveis para obter insights específicos.  
 
-## Resultados Esperados 📊
-- Visualização clara de quais postagens têm melhor desempenho.
-- Insights rápidos sobre campanhas e estratégias de engajamento.
-- Filtrar visualização pelas tags, período de avaliação do perfil ou tipo de interação como vídeo, imagem ou todas elas.
-![Demonstração](https://i.imgur.com/CIIpXBw.gif)
+## Resultados Esperados 📊  
+📌 Identificar **quais postagens geram mais engajamento**.  
+📌 Analisar a **eficácia de campanhas** e estratégias de marketing.  
+📌 Descobrir **tendências de engajamento ao longo do tempo**.  
+📌 Obter uma **visualização clara e interativa** das métricas do Instagram.  
 
 ## Conexão com o Projeto Python 🔗
 Este dashboard foi desenvolvido com base nos mesmos dados analisados no projeto Python, permitindo uma continuidade na exploração dos insights de forma mais visual.
 
+![Demonstração](https://i.imgur.com/CIIpXBw.gif)
