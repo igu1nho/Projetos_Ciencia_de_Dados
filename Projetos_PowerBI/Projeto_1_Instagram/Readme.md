@@ -20,6 +20,8 @@ Este projeto é uma extensão da análise de engajamento do Instagram, focado na
 ## Resultados Esperados 📊
 - Visualização clara de quais postagens têm melhor desempenho.
 - Insights rápidos sobre campanhas e estratégias de engajamento.
+- Filtrar visualização pelas tags, período de avaliação do perfil ou tipo de interação como vídeo, imagem ou todas elas.
+![Demonstração](https://imgur.com/a/TpvXXAZ)
 
 ## Conexão com o Projeto Python 🔗
 Este dashboard foi desenvolvido com base nos mesmos dados analisados no projeto Python, permitindo uma continuidade na exploração dos insights de forma mais visual.
