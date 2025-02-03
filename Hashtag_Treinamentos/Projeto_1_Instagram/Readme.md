@@ -29,4 +29,4 @@ Cap_6_Projeto_1_Instagram/
 ## Como Executar 💻
 1. Clone o repositório:
    ```bash
-   git clone <URL-do-repositorio>
+   git clone <https://github.com/igu1nho/Projetos_Ciencia_de_Dados/tree/main/Hashtag_Treinamentos/Projeto_1_Instagram>
