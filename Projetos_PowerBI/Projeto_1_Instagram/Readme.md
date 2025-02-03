@@ -31,4 +31,4 @@ Os dados analisados incluem curtidas, comentários e interações totais, permit
 Este dashboard foi desenvolvido com base nos mesmos dados analisados no projeto Python, permitindo uma continuidade na exploração dos insights de forma mais visual.
 
 ## Demonstração 👀 
-![Demonstração](https://i.imgur.com/CIIpXBw.gif)
+![Demonstração](https://i.imgur.com/aFJc5yN.gif)
