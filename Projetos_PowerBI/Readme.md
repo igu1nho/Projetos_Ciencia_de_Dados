@@ -1,7 +1,5 @@
-
----
 ### Dashboard de Engajamento no Instagram com Power BI
-```markdown
+
 # Dashboard de Engajamento no Instagram com Power BI
 
 ## Descrição do Projeto
